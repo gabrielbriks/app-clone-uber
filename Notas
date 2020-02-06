@@ -4,4 +4,10 @@
 incialmente execute o seguinte comando: 
     Comand > 'react-native init AwesomeExample --template rockeatseat-basic';
     #Caso esse comando não funcionar, utilize o 'npm install -g react-native';
-- 
+
+-Adicionando as depencias citadas   
+    Initi: 
+        yarn add react-navigatio
+        #Add >> yarn add styled-componets
+
+6:07
